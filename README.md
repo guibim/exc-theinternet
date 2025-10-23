@@ -30,3 +30,6 @@ A ideia é treinar:
 - Escrita de testes automatizados  
 - Boas práticas com Cypress  
 - Uso de Git e versionamento no GitHub  
+
+## 🧩 Patch Notes
+- **23/10/2025** — Início dos testes no **The Internet** também com **Robot Framework + Selenium**, expandindo o escopo do projeto para comparação entre frameworks de automação.
